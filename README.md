@@ -1,2 +1,7 @@
-# demo-consultorio-odontologico-odim
-Demo web para Consultorio odontológico - ODIM — diseñada por eterlab.
+# Consultorio odontológico - ODIM
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
